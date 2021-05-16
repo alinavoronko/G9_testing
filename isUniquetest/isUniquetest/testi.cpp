@@ -14,7 +14,7 @@ direktoriju sturktūra:
 ├── repos
 │   ├── GG9_av20099
 │   │   └── GG9_av20099
-│   │       ├── eleml.h
+│   │       ├── elem.h
 │   │       ├── isUniqueStl.h
 │   │       ├── isUniqueSavs.h
 │   │       ├── SourceSavs.h
